@@ -1,0 +1,6 @@
+{
+  "name": "thingiview",
+  "dependencies": {
+    "three.js": "http://mrdoob.github.com/three.js/build/three.min.js"
+  }
+}
