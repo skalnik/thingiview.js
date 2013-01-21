@@ -2,6 +2,7 @@
   "name": "thingiviewjs",
   "version": "0.0.1",
   "dependencies": {
-    "three.js": "http://mrdoob.github.com/three.js/build/three.min.js"
-  }
+    "threejs": "d1fafc73d21b8953ff696f0c70d4640e1984103b"
+  },
+  "main": ["./javascripts/thingiview.js", "./javascripts/plane.js"]
 }
